@@ -23,5 +23,11 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+- (IBAction)buttonTapped:(id)sender {
+    
+    NSLog(@"Butona basıldı");
+    
+    
+}
 
 @end
