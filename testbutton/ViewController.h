@@ -6,6 +6,8 @@
 //  Copyright (c) 2014 TURKTICARETNET. All rights reserved.
 //
 
+
+//keko özelliği
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
